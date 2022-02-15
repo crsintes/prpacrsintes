@@ -1,0 +1,59 @@
+Script started on Tue Feb 15 20:50:34 2022
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hggit init     g  ccd c  lls[?2004l
+Applications		Downloads		Music			UNIVERSIDAD		decker.txt
+Desktop			Library			Pictures		carpeta sin título	opt
+Documents		Movies			Public			decker
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hccd decker[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hLLS[?2004l
+01.py		02.py		03.py		04_decker.py	README.md
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit init[?2004l
+Reinitialized existing Git repository in /Users/cristinasintesgarcia/decker/.git/
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004httouch REAM DME .md[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004heecho "Practoca   ica decker" >> README.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit add README.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggtg git add 01.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit add 02.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit add 03.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit add 04. _deckc er.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit status[?2004l
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   03.py[m
+	[32mmodified:   README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.DS_Store[m
+
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggti co   g git commit -m "Subir e archivos"[?2004l
+[master 7db96e0] Subir archivos
+ 2 files changed, 8 insertions(+), 7 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit remote add prg   origin [7mhttps://github.com/crsintes/decker.git[27m[38D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27mr[27ms[27mi[27mn[27mt[27me[27ms[27m/[27md[27me[27mc[27mk[27me[27mr[27m.[27mg[27mi[27mt[?2004l
+error: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004hggit push h -u oriti  gin [?2004l
+Enumerating objects: 11, done.
+Counting objects:   9% (1/11)Counting objects:  18% (2/11)Counting objects:  27% (3/11)Counting objects:  36% (4/11)Counting objects:  45% (5/11)Counting objects:  54% (6/11)Counting objects:  63% (7/11)Counting objects:  72% (8/11)Counting objects:  81% (9/11)Counting objects:  90% (10/11)Counting objects: 100% (11/11)Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects:  11% (1/9)Compressing objects:  22% (2/9)Compressing objects:  33% (3/9)Compressing objects:  44% (4/9)Compressing objects:  55% (5/9)Compressing objects:  66% (6/9)Compressing objects:  77% (7/9)Compressing objects:  88% (8/9)Compressing objects: 100% (9/9)Compressing objects: 100% (9/9), done.
+Writing objects:   9% (1/11)Writing objects:  18% (2/11)Writing objects:  27% (3/11)Writing objects:  45% (5/11)Writing objects:  63% (7/11)Writing objects:  72% (8/11)Writing objects:  81% (9/11)Writing objects:  90% (10/11)Writing objects: 100% (11/11)Writing objects: 100% (11/11), 1.38 KiB | 704.00 KiB/s, done.
+Total 11 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/5)[Kremote: Resolving deltas:  20% (1/5)[Kremote: Resolving deltas:  40% (2/5)[Kremote: Resolving deltas:  60% (3/5)[Kremote: Resolving deltas:  80% (4/5)[Kremote: Resolving deltas: 100% (5/5)[Kremote: Resolving deltas: 100% (5/5), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/crsintes/decker/pull/new/master[K
+remote: 
+To https://github.com/crsintes/decker.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/decker[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 decker % [K[?2004h[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+Script done on Tue Feb 15 20:55:59 2022
